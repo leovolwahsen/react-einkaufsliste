@@ -382,6 +382,120 @@
         "Die Mischung in die Champignonköpfe füllen und mit dem restlichen Käse bestreuen.",
         "Im vorgeheizten Ofen bei 180°C ca. 20-25 Minuten backen, bis die Champignons weich sind und der Käse goldbraun ist."
       ]
+    },
+    {
+      "title": "Gefüllte Auberginenröllchen",
+      "description": "Zarte Auberginenscheiben gefüllt mit einer herzhaften Mischung aus Hackfleisch und Reis, serviert in einer Tomatensauce.",
+      "ingredients": [
+        "2 große Auberginen",
+        "250g Rinderhackfleisch",
+        "1 Tasse gekochter Reis",
+        "1 Zwiebel, gewürfelt",
+        "1 Knoblauchzehe, gehackt",
+        "400ml passierte Tomaten",
+        "Salz, Pfeffer und Paprikapulver nach Geschmack",
+        "Olivenöl zum Braten"
+      ],
+      "instructions": [
+        "Auberginen in dünne Scheiben schneiden und leicht salzen. 10 Minuten ruhen lassen, um Bitterstoffe zu entfernen.",
+        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+        "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
+        "Gekochten Reis hinzufügen, mit Gewürzen würzen und vermengen.",
+        "Jede Auberginenscheibe mit der Hackfleisch-Reis-Mischung füllen und aufrollen.",
+        "In einer Pfanne Tomatensauce erhitzen, gefüllte Auberginenröllchen hinzufügen und köcheln lassen."
+      ]
+    },
+    {
+      "title": "Gefüllte Tomaten mit Quinoa und Gemüse",
+      "description": "Saftige Tomaten gefüllt mit einer herzhaften Mischung aus Quinoa und einer bunten Gemüsemischung, serviert in einer Tomatensauce.",
+      "ingredients": [
+        "4 große Tomaten",
+        "1 Tasse Quinoa, gekocht",
+        "1 Zucchini, gewürfelt",
+        "1 Paprika, gewürfelt",
+        "1 Zwiebel, gewürfelt",
+        "2 Knoblauchzehen, gehackt",
+        "400ml passierte Tomaten",
+        "Salz, Pfeffer und Paprikapulver nach Geschmack",
+        "Olivenöl zum Braten"
+      ],
+      "instructions": [
+        "Tomaten aushöhlen und vorbereiten.",
+        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+        "Zucchini und Paprika hinzufügen und anbraten, bis sie weich sind.",
+        "Quinoa und Gewürze hinzufügen, gut vermengen.",
+        "Die Mischung in die Tomaten füllen.",
+        "In einer Pfanne Tomatensauce erhitzen, gefüllte Tomaten hinzufügen und köcheln lassen."
+      ]
+    },
+    {
+      "title": "Gefüllte Forelle in Zitronensauce",
+      "description": "Saftige Forellen gefüllt mit einer Mischung aus Krabben und Reis, serviert in einer köstlichen Zitronensauce.",
+      "ingredients": [
+        "4 ganze Forellen, ausgenommen und geschuppt",
+        "200g Krabben, gekocht und geschält",
+        "1 Tasse gekochter Reis",
+        "1 Zwiebel, gewürfelt",
+        "2 Knoblauchzehen, gehackt",
+        "Saft und Schale von 2 Zitronen",
+        "200ml Fischbrühe",
+        "Salz, Pfeffer und Paprikapulver nach Geschmack",
+        "Frische Petersilie zum Garnieren",
+        "Olivenöl zum Braten"
+      ],
+      "instructions": [
+        "Forellen innen und außen salzen und pfeffern.",
+        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+        "Krabben, Reis, Zitronensaft und -schale hinzufügen, mit Gewürzen würzen und vermengen.",
+        "Die Forellen mit der Mischung füllen.",
+        "Die gefüllten Forellen in eine Backform legen, Fischbrühe hinzufügen und im vorgeheizten Ofen bei 180°C ca. 25-30 Minuten backen, bis der Fisch durchgegart ist.",
+        "Mit frischer Petersilie garnieren und mit Zitronenscheiben servieren."
+      ]
+    },
+    {
+      "title": "Gefüllte Lachsfilets mit Spinat und Kräutern in Zitronenbuttersoße",
+      "description": "Zarte Lachsfilets gefüllt mit einer Mischung aus Spinat, Kräutern und Parmesan, serviert in einer leckeren Zitronenbuttersoße.",
+      "ingredients": [
+        "4 Lachsfilets",
+        "200g frischer Spinat, gehackt",
+        "1/4 Tasse frische Kräuter (z. B. Petersilie und Dill), gehackt",
+        "1/4 Tasse geriebener Parmesan",
+        "Saft und Schale von 1 Zitrone",
+        "2 Knoblauchzehen, gehackt",
+        "4 EL Butter",
+        "Salz und Pfeffer nach Geschmack"
+      ],
+      "instructions": [
+        "Die Lachsfilets leicht salzen und pfeffern.",
+        "In einer Pfanne 2 EL Butter schmelzen, Knoblauch und Spinat hinzufügen, bis der Spinat welk wird.",
+        "Vom Herd nehmen und die gehackten Kräuter, Parmesan und die Zitronenschale unterrühren.",
+        "Die Spinatmischung gleichmäßig auf die Lachsfilets verteilen und die Filets aufrollen.",
+        "In derselben Pfanne die restliche Butter schmelzen, die Lachsrollen hinzufügen und von beiden Seiten goldbraun anbraten.",
+        "Den Zitronensaft über die Lachsrollen gießen und bei niedriger Hitze köcheln lassen, bis der Lachs durchgegart ist.",
+        "Mit der Zitronenbuttersoße servieren."
+      ]
+    },
+    {
+      "title": "Gefüllte Forelle mit Kräuterbutter und Spinat",
+      "description": "Zarte Forellenfilets gefüllt mit einer Mischung aus Kräuterbutter und Spinat, serviert mit einer Zitronen-Buttersoße.",
+      "ingredients": [
+        "4 ganze Forellen, ausgenommen und geschuppt",
+        "100g frischer Spinat",
+        "100g Butter, weich",
+        "2 EL frische Kräuter (z. B. Petersilie und Dill), gehackt",
+        "Saft und Schale von 1 Zitrone",
+        "Salz und Pfeffer nach Geschmack",
+        "Olivenöl zum Braten"
+      ],
+      "instructions": [
+        "Die Forellen innen und außen salzen und pfeffern.",
+        "Den Spinat leicht anbraten, bis er zusammenfällt, dann gut abtropfen lassen und abkühlen lassen.",
+        "In einer Schüssel die weiche Butter, gehackte Kräuter und Zitronenschale vermengen.",
+        "Die Forellen mit der Kräuterbutter füllen.",
+        "In einer Pfanne Olivenöl erhitzen, die Forellen von beiden Seiten goldbraun braten.",
+        "Den Zitronensaft über die Forellen gießen und bei niedriger Hitze köcheln lassen, bis der Fisch durchgegart ist.",
+        "Mit der Zitronen-Buttersoße servieren."
+      ]
     }
     
   ]
