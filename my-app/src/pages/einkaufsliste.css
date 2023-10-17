@@ -24,6 +24,7 @@
     height: 8vh;
     margin: 0 auto;
     background-color: gray;
+    min-height: fit-content;
 }
 
 h2 {
@@ -33,13 +34,18 @@ h2 {
 .input {
     margin-top: 1rem;
     margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
     width: 25rem;
     border-radius: 5px;
     height: 3.4rem;
     font-size: larger;
     padding: 1rem;
     border: none;
+    max-width: fit-content;
 }
+
+
 
 .list-container {
     width: 18vw;
