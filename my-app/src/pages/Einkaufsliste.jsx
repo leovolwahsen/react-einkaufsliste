@@ -23,7 +23,7 @@ export default function Einkaufliste() {
     <div className="einkaufsliste-container">
       <div className="einkauf-werte">
         <h2>Einkaufsliste</h2>
-        <form onSubmit={formAbschicken}>
+        <form onSubmit={formAbschicken} className="input-btn-hintergrund">
           <input
             className="input"
             type="text"
