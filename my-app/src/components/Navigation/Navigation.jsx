@@ -16,6 +16,7 @@ function Navigation() {
           >
             <Nav.Link href="/">Hauptseite</Nav.Link>
             <Nav.Link href="/einkaufsliste">Einkaufsliste</Nav.Link>
+            <Nav.Link href="/rezeptgenerator">Rezeptgenerator</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
