@@ -1,501 +1,499 @@
-{
-  "recipes": [
-    {
-      "title": "Spaghetti Bolognese",
-      "description": "Klassische italienische Pasta mit würziger Fleischsauce.",
-      "ingredients": [
-        "250g Spaghetti",
-        "250g Rinderhackfleisch",
-        "1 Zwiebel, gewürfelt",
-        "2 Knoblauchzehen, gehackt",
-        "400g Dosentomaten",
-        "2 EL Tomatenmark",
-        "1 TL Oregano",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Kochen Sie die Spaghetti al dente.",
-        "Braten Sie das Rinderhackfleisch in einer Pfanne an, fügen Sie Zwiebeln und Knoblauch hinzu.",
-        "Geben Sie die Dosentomaten, Tomatenmark und Gewürze hinzu, lassen Sie es köcheln.",
-        "Servieren Sie die Sauce über den Spaghetti."
-      ]
-    },
-    {
-      "title": "Pasta Carbonara",
-      "description": "Klassisches italienisches Nudelgericht mit Speck und Ei.",
-      "ingredients": [
-        "200g Spaghetti",
-        "100g Pancetta",
-        "2 Eier",
-        "50g geriebener Parmesan",
-        "50g geriebener Pecorino",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Kochen Sie die Spaghetti al dente.",
-        "Braten Sie den Pancetta in einer Pfanne knusprig.",
-        "Verrühren Sie Eier, Parmesan und Pecorino in einer Schüssel.",
-        "Gießen Sie die heißen Nudeln über die Ei-Käse-Mischung und vermengen Sie gut.",
-        "Fügen Sie den knusprigen Pancetta hinzu und würzen Sie mit Salz und Pfeffer."
-      ]
-    },
-    {
-      "title": "Rinderbraten mit Gemüse",
-      "description": "Saftiger Rinderbraten mit einer Mischung aus frischem Gemüse.",
-      "ingredients": [
-        "1,5 kg Rinderbraten",
-        "3 Karotten, in Scheiben geschnitten",
-        "2 Zwiebeln, geviertelt",
-        "3 Knoblauchzehen, gehackt",
-        "1 Bund frischer Rosmarin",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Den Ofen auf 180°C vorheizen.",
-        "Das Gemüse in einen Bräter legen und mit Olivenöl, Salz und Pfeffer würzen.",
-        "Den Rinderbraten auf das Gemüse legen und mit Rosmarinzweigen belegen.",
-        "Abdecken und 3 Stunden im Ofen garen.",
-        "Fleisch in Scheiben schneiden und mit Gemüse servieren."
-      ]
-    },
-    {
-      "title": "Linsensuppe",
-      "description": "Gesunde und herzhafte Linsensuppe mit Gemüse und Gewürzen.",
-      "ingredients": [
-        "200g grüne oder braune Linsen",
-        "1 Zwiebel, gewürfelt",
-        "2 Karotten, gewürfelt",
-        "2 Selleriestangen, gewürfelt",
-        "1 TL Kreuzkümmel",
-        "1 TL Paprikapulver",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Die Linsen in einem Topf mit Wasser kochen, bis sie weich sind.",
-        "In einem separaten Topf Zwiebeln, Karotten und Sellerie anbraten.",
-        "Die gekochten Linsen hinzufügen, Gewürze zugeben und köcheln lassen.",
-        "Mit Salz und Pfeffer abschmecken und servieren."
-      ]
-    },
-    {
-      "title": "Hühnchen-Curry",
-      "description": "Würziges Hühnchen-Curry mit Reis und Gemüse.",
-      "ingredients": [
-        "500g Hühnchenbrust, gewürfelt",
-        "1 Zwiebel, gehackt",
-        "2 Knoblauchzehen, gehackt",
-        "1 Dose Kokosmilch",
-        "2 EL Currypulver",
-        "Gemischtes Gemüse nach Wahl",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Das Hühnchen in einer Pfanne anbraten, bis es durchgegart ist.",
-        "Zwiebeln und Knoblauch hinzufügen und kurz anbraten.",
-        "Kokosmilch, Currypulver und Gemüse hinzufügen, köcheln lassen.",
-        "Mit Reis servieren."
-      ]
-    },
-    {
-      "title": "Gemüsepfanne mit Quinoa",
-      "description": "Gesunde Gemüsepfanne mit Quinoa und einer würzigen Sauce.",
-      "ingredients": [
-        "1 Tasse Quinoa",
-        "2 Tassen Gemüsebrühe",
-        "1 Zucchini, gewürfelt",
-        "1 Paprika, in Streifen geschnitten",
-        "1 Brokkoli, in Röschen geteilt",
-        "1 Knoblauchzehe, gehackt",
-        "2 EL Sojasauce",
-        "1 TL Ingwer, gerieben"
-      ],
-      "instructions": [
-        "Quinoa in der Gemüsebrühe kochen, bis sie weich ist.",
-        "In einer Pfanne Knoblauch und Ingwer anbraten.",
-        "Das geschnittene Gemüse hinzufügen und anbraten.",
-        "Quinoa und Sojasauce unterrühren, bis alles gut vermengt ist."
-      ]
-    },
-    {
-      "title": "Gegrillte Lachsfilets",
-      "description": "Saftige Lachsfilets, mariniert und gegrillt, serviert mit Zitronenbutter.",
-      "ingredients": [
-        "4 Lachsfilets",
-        "Saft und Schale von 1 Zitrone",
-        "2 EL Olivenöl",
-        "2 Knoblauchzehen, gehackt",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Lachsfilets in einer Mischung aus Zitronensaft, Olivenöl, Knoblauch, Salz und Pfeffer marinieren.",
-        "Auf dem Grill oder in einer Grillpfanne grillen, bis der Lachs durchgegart ist.",
-        "Mit Zitronenschale und geschmolzener Butter servieren."
-      ]
-    },
-    {
-      "title": "Kartoffelsalat",
-      "description": "Klassischer Kartoffelsalat mit einer cremigen Mayonnaise-Dressing.",
-      "ingredients": [
-        "500g Kartoffeln, gekocht und gewürfelt",
-        "2 Eier, gekocht und gewürfelt",
-        "1 Zwiebel, gewürfelt",
-        "4 EL Mayonnaise",
-        "2 EL Essig",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Kartoffeln, Eier und Zwiebel in einer Schüssel mischen.",
-        "Mayonnaise, Essig, Salz und Pfeffer hinzufügen und gut vermengen.",
-        "Kalt servieren."
-      ]
-    },
-    {
-      "title": "Gemüsesuppe",
-      "description": "Gesunde Gemüsesuppe mit frischem Gemüse und Gewürzen.",
-      "ingredients": [
-        "2 Karotten, gewürfelt",
-        "2 Selleriestangen, gehackt",
-        "1 Zwiebel, gewürfelt",
-        "1 Knoblauchzehe, gehackt",
-        "1 Liter Gemüsebrühe",
-        "1 TL Paprikapulver",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Das Gemüse in einem Topf mit etwas Öl anbraten, bis es weich ist.",
-        "Gemüsebrühe hinzufügen und zum Kochen bringen.",
-        "Gewürze hinzufügen und köcheln lassen.",
-        "Mit Salz und Pfeffer abschmecken und servieren."
-      ]
-    },
-    {
-      "title": "Cesar-Salat",
-      "description": "Klassischer Cesar-Salat mit saftigen Hühnchenbruststreifen und Knoblauch-Croutons.",
-      "ingredients": [
-        "200g Hühnchenbrust, gegrillt und in Streifen geschnitten",
-        "1 Kopf Romanasalat, in Stücke gerissen",
-        "1/2 Tasse Croutons",
-        "2 EL geriebener Parmesan",
-        "Cesar-Dressing nach Geschmack"
-      ],
-      "instructions": [
-        "In einer großen Schüssel Salat, Hühnchenstreifen und Croutons mischen.",
-        "Mit Parmesan bestreuen und mit Cesar-Dressing beträufeln."
-      ]
-    },
-    {
-      "title": "Ratatouille",
-      "description": "Traditionelle französische Gemüsebeilage mit Tomaten, Auberginen und Zucchini.",
-      "ingredients": [
-        "1 Aubergine, gewürfelt",
-        "2 Zucchini, gewürfelt",
-        "3 Tomaten, gewürfelt",
-        "1 Zwiebel, gewürfelt",
-        "2 Knoblauchzehen, gehackt",
-        "Frische Kräuter nach Geschmack",
-        "Olivenöl, Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Gemüse in einer Pfanne mit Olivenöl anbraten.",
-        "Zwiebel und Knoblauch hinzufügen und köcheln lassen.",
-        "Frische Kräuter hinzufügen und mit Salz und Pfeffer abschmecken."
-      ]
-    },
-    {
-      "title": "Gebratener Lachs mit Spinat",
-      "description": "Saftiges Lachsfilet auf einem Bett aus gedünstetem Spinat und Zitronenbutter.",
-      "ingredients": [
-        "2 Lachsfilets",
-        "200g frischer Spinat",
-        "1 Zitrone, in Scheiben geschnitten",
-        "2 EL Butter",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Lachsfilets mit Zitronensaft beträufeln und mit Salz und Pfeffer würzen.",
-        "In einer Pfanne mit Butter braten, bis sie durchgegart sind.",
-        "Spinat in der Pfanne dünsten, bis er zusammenfällt.",
-        "Servieren Sie den Lachs auf dem Spinatbett, garniert mit Zitronenscheiben."
-      ]
-    },
-    {
-      "title": "Caprese-Salat",
-      "description": "Einfacher Caprese-Salat mit Tomaten, Mozzarella und frischem Basilikum.",
-      "ingredients": [
-        "4 Tomaten, in Scheiben geschnitten",
-        "200g Mozzarella, in Scheiben geschnitten",
-        "Frischer Basilikum",
-        "Olivenöl und Balsamico-Essig",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Tomatenscheiben abwechselnd mit Mozzarellascheiben und Basilikumblättern auf einem Teller anrichten.",
-        "Mit Olivenöl und Balsamico-Essig beträufeln, mit Salz und Pfeffer würzen."
-      ]
-    },
-    {
-      "title": "Kartoffelsuppe",
-      "description": "Herzhafte Kartoffelsuppe mit Sahne und Speckwürfeln.",
-      "ingredients": [
-        "4 Kartoffeln, gewürfelt",
-        "1 Zwiebel, gewürfelt",
-        "200ml Sahne",
-        "100g Speckwürfel",
-        "Frische Petersilie",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Kartoffeln und Zwiebel in einem Topf kochen, bis sie weich sind.",
-        "Mit einem Pürierstab pürieren und Sahne hinzufügen.",
-        "In einer Pfanne Speckwürfel knusprig anbraten und über die Suppe streuen."
-      ]
-    },
-    {
-      "title": "Gefüllte Paprika",
-      "description": "Gefüllte Paprikaschoten mit Hackfleisch und Reis in einer Tomatensauce.",
-      "ingredients": [
-        "4 große Paprikaschoten",
-        "250g Rinderhackfleisch",
-        "1 Tasse gekochter Reis",
-        "1 Zwiebel, gewürfelt",
-        "1 Knoblauchzehe, gehackt",
-        "400ml passierte Tomaten",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack"
-      ],
-      "instructions": [
-        "Paprikaschoten aushöhlen und vorbereiten.",
-        "Hackfleisch, Reis, Zwiebel und Knoblauch vermengen, mit Gewürzen würzen.",
-        "Die Mischung in die Paprikaschoten füllen.",
-        "In einer Pfanne Tomatensauce erhitzen, gefüllte Paprikaschoten hinzufügen und köcheln lassen."
-      ]
-    },
-    {
-      "title": "Gefüllte Auberginen",
-      "description": "Gefüllte Auberginenhälften mit einer herzhaften Mischung aus Hackfleisch und Gemüse, überbacken mit Käse.",
-      "ingredients": [
-        "2 große Auberginen",
-        "250g Rinderhackfleisch",
-        "1 Zwiebel, gewürfelt",
-        "2 Knoblauchzehen, gehackt",
-        "1 Paprika, gewürfelt",
-        "400ml passierte Tomaten",
-        "150g geriebener Käse",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Auberginen längs halbieren und aushöhlen.",
-        "Das Fruchtfleisch der Auberginen klein schneiden und beiseite legen.",
-        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
-        "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
-        "Das klein geschnittene Auberginenfruchtfleisch und Paprika hinzufügen, weiterbraten.",
-        "Mit Gewürzen würzen und passierte Tomaten hinzufügen, köcheln lassen.",
-        "Die Auberginenhälften in einer Auflaufform platzieren und mit der Hackfleischmischung füllen.",
-        "Mit geriebenem Käse bestreuen und im vorgeheizten Ofen bei 180°C ca. 20 Minuten überbacken, bis der Käse goldbraun ist."
-      ]
-    },
-    {
-      "title": "Gefüllte Zucchini",
-      "description": "Gefüllte Zucchinihälften mit einer herzhaften Mischung aus Hackfleisch, Gemüse und Reis in einer Tomatensauce.",
-      "ingredients": [
-        "2 mittelgroße Zucchinis",
-        "250g Rinderhackfleisch",
-        "1 Tasse gekochter Reis",
-        "1 Zwiebel, gewürfelt",
-        "1 Knoblauchzehe, gehackt",
-        "400ml passierte Tomaten",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Zucchinis halbieren und aushöhlen.",
-        "Das Fruchtfleisch der Zucchinis klein schneiden und beiseite legen.",
-        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
-        "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
-        "Das klein geschnittene Zucchinifruchtfleisch hinzufügen und weiterbraten.",
-        "Mit Gewürzen würzen und passierte Tomaten hinzufügen, köcheln lassen.",
-        "Die Zucchinihälften in einer Auflaufform platzieren und mit der Hackfleischmischung füllen.",
-        "Im vorgeheizten Ofen bei 180°C ca. 25-30 Minuten backen, bis die Zucchinis weich sind."
-      ]
-    },
-    {
-      "title": "Gefüllte Tomaten",
-      "description": "Saftige Tomaten, gefüllt mit einer Mischung aus Hackfleisch und Reis, serviert in einer herzhaften Tomatensauce.",
-      "ingredients": [
-        "4 große Tomaten",
-        "250g Rinderhackfleisch",
-        "1 Tasse gekochter Reis",
-        "1 Zwiebel, gewürfelt",
-        "1 Knoblauchzehe, gehackt",
-        "400ml passierte Tomaten",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack"
-      ],
-      "instructions": [
-        "Tomaten aushöhlen und vorbereiten.",
-        "Hackfleisch, Reis, Zwiebel und Knoblauch vermengen, mit Gewürzen würzen.",
-        "Die Mischung in die Tomaten füllen.",
-        "In einer Pfanne Tomatensauce erhitzen, gefüllte Tomaten hinzufügen und köcheln lassen."
-      ]
-    },
-    {
-      "title": "Gefüllte Kohlrabi",
-      "description": "Kohlrabi gefüllt mit einer herzhaften Mischung aus Hackfleisch, Gemüse und Reis in einer Tomatensauce.",
-      "ingredients": [
-        "4 mittelgroße Kohlrabi",
-        "250g Rinderhackfleisch",
-        "1 Tasse gekochter Reis",
-        "1 Zwiebel, gewürfelt",
-        "1 Knoblauchzehe, gehackt",
-        "400ml passierte Tomaten",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Kohlrabi schälen und aushöhlen, dabei das Fruchtfleisch beiseite legen.",
-        "In einem Topf Wasser zum Kochen bringen und die Kohlrabi 10 Minuten vorkochen.",
-        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
-        "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
-        "Das klein geschnittene Kohlrabifruchtfleisch hinzufügen und weiterbraten.",
-        "Mit Gewürzen würzen und passierte Tomaten hinzufügen, köcheln lassen.",
-        "Die vorgekochten Kohlrabi mit der Hackfleischmischung füllen.",
-        "Im vorgeheizten Ofen bei 180°C ca. 25-30 Minuten backen, bis die Kohlrabi weich sind."
-      ]
-    },
-    {
-      "title": "Gefüllte Champignons",
-      "description": "Saftige Champignons gefüllt mit einer herzhaften Mischung aus Hackfleisch, Kräutern und Käse.",
-      "ingredients": [
-        "12 große Champignons",
-        "250g Rinderhackfleisch",
-        "1 Tasse frische Kräuter (z. B. Petersilie und Schnittlauch), fein gehackt",
-        "1 Zwiebel, gewürfelt",
-        "1 Knoblauchzehe, gehackt",
-        "100g geriebener Käse (z. B. Gouda oder Parmesan)",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Champignons putzen und Stiele entfernen. Stiele fein hacken.",
-        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
-        "Hackfleisch und gehackte Champignonstiele hinzufügen und anbraten, bis das Hackfleisch braun ist.",
-        "Mit Kräutern, Gewürzen und der Hälfte des geriebenen Käses vermengen.",
-        "Die Mischung in die Champignonköpfe füllen und mit dem restlichen Käse bestreuen.",
-        "Im vorgeheizten Ofen bei 180°C ca. 20-25 Minuten backen, bis die Champignons weich sind und der Käse goldbraun ist."
-      ]
-    },
-    {
-      "title": "Gefüllte Auberginenröllchen",
-      "description": "Zarte Auberginenscheiben gefüllt mit einer herzhaften Mischung aus Hackfleisch und Reis, serviert in einer Tomatensauce.",
-      "ingredients": [
-        "2 große Auberginen",
-        "250g Rinderhackfleisch",
-        "1 Tasse gekochter Reis",
-        "1 Zwiebel, gewürfelt",
-        "1 Knoblauchzehe, gehackt",
-        "400ml passierte Tomaten",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Auberginen in dünne Scheiben schneiden und leicht salzen. 10 Minuten ruhen lassen, um Bitterstoffe zu entfernen.",
-        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
-        "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
-        "Gekochten Reis hinzufügen, mit Gewürzen würzen und vermengen.",
-        "Jede Auberginenscheibe mit der Hackfleisch-Reis-Mischung füllen und aufrollen.",
-        "In einer Pfanne Tomatensauce erhitzen, gefüllte Auberginenröllchen hinzufügen und köcheln lassen."
-      ]
-    },
-    {
-      "title": "Gefüllte Tomaten mit Quinoa und Gemüse",
-      "description": "Saftige Tomaten gefüllt mit einer herzhaften Mischung aus Quinoa und einer bunten Gemüsemischung, serviert in einer Tomatensauce.",
-      "ingredients": [
-        "4 große Tomaten",
-        "1 Tasse Quinoa, gekocht",
-        "1 Zucchini, gewürfelt",
-        "1 Paprika, gewürfelt",
-        "1 Zwiebel, gewürfelt",
-        "2 Knoblauchzehen, gehackt",
-        "400ml passierte Tomaten",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Tomaten aushöhlen und vorbereiten.",
-        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
-        "Zucchini und Paprika hinzufügen und anbraten, bis sie weich sind.",
-        "Quinoa und Gewürze hinzufügen, gut vermengen.",
-        "Die Mischung in die Tomaten füllen.",
-        "In einer Pfanne Tomatensauce erhitzen, gefüllte Tomaten hinzufügen und köcheln lassen."
-      ]
-    },
-    {
-      "title": "Gefüllte Forelle in Zitronensauce",
-      "description": "Saftige Forellen gefüllt mit einer Mischung aus Krabben und Reis, serviert in einer köstlichen Zitronensauce.",
-      "ingredients": [
-        "4 ganze Forellen, ausgenommen und geschuppt",
-        "200g Krabben, gekocht und geschält",
-        "1 Tasse gekochter Reis",
-        "1 Zwiebel, gewürfelt",
-        "2 Knoblauchzehen, gehackt",
-        "Saft und Schale von 2 Zitronen",
-        "200ml Fischbrühe",
-        "Salz, Pfeffer und Paprikapulver nach Geschmack",
-        "Frische Petersilie zum Garnieren",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Forellen innen und außen salzen und pfeffern.",
-        "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
-        "Krabben, Reis, Zitronensaft und -schale hinzufügen, mit Gewürzen würzen und vermengen.",
-        "Die Forellen mit der Mischung füllen.",
-        "Die gefüllten Forellen in eine Backform legen, Fischbrühe hinzufügen und im vorgeheizten Ofen bei 180°C ca. 25-30 Minuten backen, bis der Fisch durchgegart ist.",
-        "Mit frischer Petersilie garnieren und mit Zitronenscheiben servieren."
-      ]
-    },
-    {
-      "title": "Gefüllte Lachsfilets mit Spinat und Kräutern in Zitronenbuttersoße",
-      "description": "Zarte Lachsfilets gefüllt mit einer Mischung aus Spinat, Kräutern und Parmesan, serviert in einer leckeren Zitronenbuttersoße.",
-      "ingredients": [
-        "4 Lachsfilets",
-        "200g frischer Spinat, gehackt",
-        "1/4 Tasse frische Kräuter (z. B. Petersilie und Dill), gehackt",
-        "1/4 Tasse geriebener Parmesan",
-        "Saft und Schale von 1 Zitrone",
-        "2 Knoblauchzehen, gehackt",
-        "4 EL Butter",
-        "Salz und Pfeffer nach Geschmack"
-      ],
-      "instructions": [
-        "Die Lachsfilets leicht salzen und pfeffern.",
-        "In einer Pfanne 2 EL Butter schmelzen, Knoblauch und Spinat hinzufügen, bis der Spinat welk wird.",
-        "Vom Herd nehmen und die gehackten Kräuter, Parmesan und die Zitronenschale unterrühren.",
-        "Die Spinatmischung gleichmäßig auf die Lachsfilets verteilen und die Filets aufrollen.",
-        "In derselben Pfanne die restliche Butter schmelzen, die Lachsrollen hinzufügen und von beiden Seiten goldbraun anbraten.",
-        "Den Zitronensaft über die Lachsrollen gießen und bei niedriger Hitze köcheln lassen, bis der Lachs durchgegart ist.",
-        "Mit der Zitronenbuttersoße servieren."
-      ]
-    },
-    {
-      "title": "Gefüllte Forelle mit Kräuterbutter und Spinat",
-      "description": "Zarte Forellenfilets gefüllt mit einer Mischung aus Kräuterbutter und Spinat, serviert mit einer Zitronen-Buttersoße.",
-      "ingredients": [
-        "4 ganze Forellen, ausgenommen und geschuppt",
-        "100g frischer Spinat",
-        "100g Butter, weich",
-        "2 EL frische Kräuter (z. B. Petersilie und Dill), gehackt",
-        "Saft und Schale von 1 Zitrone",
-        "Salz und Pfeffer nach Geschmack",
-        "Olivenöl zum Braten"
-      ],
-      "instructions": [
-        "Die Forellen innen und außen salzen und pfeffern.",
-        "Den Spinat leicht anbraten, bis er zusammenfällt, dann gut abtropfen lassen und abkühlen lassen.",
-        "In einer Schüssel die weiche Butter, gehackte Kräuter und Zitronenschale vermengen.",
-        "Die Forellen mit der Kräuterbutter füllen.",
-        "In einer Pfanne Olivenöl erhitzen, die Forellen von beiden Seiten goldbraun braten.",
-        "Den Zitronensaft über die Forellen gießen und bei niedriger Hitze köcheln lassen, bis der Fisch durchgegart ist.",
-        "Mit der Zitronen-Buttersoße servieren."
-      ]
-    }
-  ]
-}
+[
+  {
+    "titel": "Spaghetti Bolognese",
+    "beschreibung": "Klassische italienische Pasta mit würziger Fleischsauce.",
+    "zutaten": [
+      "250g Spaghetti",
+      "250g Rinderhackfleisch",
+      "1 Zwiebel, gewürfelt",
+      "2 Knoblauchzehen, gehackt",
+      "400g Dosentomaten",
+      "2 EL Tomatenmark",
+      "1 TL Oregano",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Kochen Sie die Spaghetti al dente.",
+      "Braten Sie das Rinderhackfleisch in einer Pfanne an, fügen Sie Zwiebeln und Knoblauch hinzu.",
+      "Geben Sie die Dosentomaten, Tomatenmark und Gewürze hinzu, lassen Sie es köcheln.",
+      "Servieren Sie die Sauce über den Spaghetti."
+    ]
+  },
+  {
+    "titel": "Pasta Carbonara",
+    "beschreibung": "Klassisches italienisches Nudelgericht mit Speck und Ei.",
+    "zutaten": [
+      "200g Spaghetti",
+      "100g Pancetta",
+      "2 Eier",
+      "50g geriebener Parmesan",
+      "50g geriebener Pecorino",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Kochen Sie die Spaghetti al dente.",
+      "Braten Sie den Pancetta in einer Pfanne knusprig.",
+      "Verrühren Sie Eier, Parmesan und Pecorino in einer Schüssel.",
+      "Gießen Sie die heißen Nudeln über die Ei-Käse-Mischung und vermengen Sie gut.",
+      "Fügen Sie den knusprigen Pancetta hinzu und würzen Sie mit Salz und Pfeffer."
+    ]
+  },
+  {
+    "titel": "Rinderbraten mit Gemüse",
+    "beschreibung": "Saftiger Rinderbraten mit einer Mischung aus frischem Gemüse.",
+    "zutaten": [
+      "1,5 kg Rinderbraten",
+      "3 Karotten, in Scheiben geschnitten",
+      "2 Zwiebeln, geviertelt",
+      "3 Knoblauchzehen, gehackt",
+      "1 Bund frischer Rosmarin",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Den Ofen auf 180°C vorheizen.",
+      "Das Gemüse in einen Bräter legen und mit Olivenöl, Salz und Pfeffer würzen.",
+      "Den Rinderbraten auf das Gemüse legen und mit Rosmarinzweigen belegen.",
+      "Abdecken und 3 Stunden im Ofen garen.",
+      "Fleisch in Scheiben schneiden und mit Gemüse servieren."
+    ]
+  },
+  {
+    "titel": "Linsensuppe",
+    "beschreibung": "Gesunde und herzhafte Linsensuppe mit Gemüse und Gewürzen.",
+    "zutaten": [
+      "200g grüne oder braune Linsen",
+      "1 Zwiebel, gewürfelt",
+      "2 Karotten, gewürfelt",
+      "2 Selleriestangen, gewürfelt",
+      "1 TL Kreuzkümmel",
+      "1 TL Paprikapulver",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Die Linsen in einem Topf mit Wasser kochen, bis sie weich sind.",
+      "In einem separaten Topf Zwiebeln, Karotten und Sellerie anbraten.",
+      "Die gekochten Linsen hinzufügen, Gewürze zugeben und köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ]
+  },
+  {
+    "titel": "Hühnchen-Curry",
+    "beschreibung": "Würziges Hühnchen-Curry mit Reis und Gemüse.",
+    "zutaten": [
+      "500g Hühnchenbrust, gewürfelt",
+      "1 Zwiebel, gehackt",
+      "2 Knoblauchzehen, gehackt",
+      "1 Dose Kokosmilch",
+      "2 EL Currypulver",
+      "Gemischtes Gemüse nach Wahl",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Das Hühnchen in einer Pfanne anbraten, bis es durchgegart ist.",
+      "Zwiebeln und Knoblauch hinzufügen und kurz anbraten.",
+      "Kokosmilch, Currypulver und Gemüse hinzufügen, köcheln lassen.",
+      "Mit Reis servieren."
+    ]
+  },
+  {
+    "titel": "Gemüsepfanne mit Quinoa",
+    "beschreibung": "Gesunde Gemüsepfanne mit Quinoa und einer würzigen Sauce.",
+    "zutaten": [
+      "1 Tasse Quinoa",
+      "2 Tassen Gemüsebrühe",
+      "1 Zucchini, gewürfelt",
+      "1 Paprika, in Streifen geschnitten",
+      "1 Brokkoli, in Röschen geteilt",
+      "1 Knoblauchzehe, gehackt",
+      "2 EL Sojasauce",
+      "1 TL Ingwer, gerieben"
+    ],
+    "anleitung": [
+      "Quinoa in der Gemüsebrühe kochen, bis sie weich ist.",
+      "In einer Pfanne Knoblauch und Ingwer anbraten.",
+      "Das geschnittene Gemüse hinzufügen und anbraten.",
+      "Quinoa und Sojasauce unterrühren, bis alles gut vermengt ist."
+    ]
+  },
+  {
+    "titel": "Gegrillte Lachsfilets",
+    "beschreibung": "Saftige Lachsfilets, mariniert und gegrillt, serviert mit Zitronenbutter.",
+    "zutaten": [
+      "4 Lachsfilets",
+      "Saft und Schale von 1 Zitrone",
+      "2 EL Olivenöl",
+      "2 Knoblauchzehen, gehackt",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Lachsfilets in einer Mischung aus Zitronensaft, Olivenöl, Knoblauch, Salz und Pfeffer marinieren.",
+      "Auf dem Grill oder in einer Grillpfanne grillen, bis der Lachs durchgegart ist.",
+      "Mit Zitronenschale und geschmolzener Butter servieren."
+    ]
+  },
+  {
+    "titel": "Kartoffelsalat",
+    "beschreibung": "Klassischer Kartoffelsalat mit einer cremigen Mayonnaise-Dressing.",
+    "zutaten": [
+      "500g Kartoffeln, gekocht und gewürfelt",
+      "2 Eier, gekocht und gewürfelt",
+      "1 Zwiebel, gewürfelt",
+      "4 EL Mayonnaise",
+      "2 EL Essig",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Kartoffeln, Eier und Zwiebel in einer Schüssel mischen.",
+      "Mayonnaise, Essig, Salz und Pfeffer hinzufügen und gut vermengen.",
+      "Kalt servieren."
+    ]
+  },
+  {
+    "titel": "Gemüsesuppe",
+    "beschreibung": "Gesunde Gemüsesuppe mit frischem Gemüse und Gewürzen.",
+    "zutaten": [
+      "2 Karotten, gewürfelt",
+      "2 Selleriestangen, gehackt",
+      "1 Zwiebel, gewürfelt",
+      "1 Knoblauchzehe, gehackt",
+      "1 Liter Gemüsebrühe",
+      "1 TL Paprikapulver",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Das Gemüse in einem Topf mit etwas Öl anbraten, bis es weich ist.",
+      "Gemüsebrühe hinzufügen und zum Kochen bringen.",
+      "Gewürze hinzufügen und köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ]
+  },
+  {
+    "titel": "Cesar-Salat",
+    "beschreibung": "Klassischer Cesar-Salat mit saftigen Hühnchenbruststreifen und Knoblauch-Croutons.",
+    "zutaten": [
+      "200g Hühnchenbrust, gegrillt und in Streifen geschnitten",
+      "1 Kopf Romanasalat, in Stücke gerissen",
+      "1/2 Tasse Croutons",
+      "2 EL geriebener Parmesan",
+      "Cesar-Dressing nach Geschmack"
+    ],
+    "anleitung": [
+      "In einer großen Schüssel Salat, Hühnchenstreifen und Croutons mischen.",
+      "Mit Parmesan bestreuen und mit Cesar-Dressing beträufeln."
+    ]
+  },
+  {
+    "titel": "Ratatouille",
+    "beschreibung": "Traditionelle französische Gemüsebeilage mit Tomaten, Auberginen und Zucchini.",
+    "zutaten": [
+      "1 Aubergine, gewürfelt",
+      "2 Zucchini, gewürfelt",
+      "3 Tomaten, gewürfelt",
+      "1 Zwiebel, gewürfelt",
+      "2 Knoblauchzehen, gehackt",
+      "Frische Kräuter nach Geschmack",
+      "Olivenöl, Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Gemüse in einer Pfanne mit Olivenöl anbraten.",
+      "Zwiebel und Knoblauch hinzufügen und köcheln lassen.",
+      "Frische Kräuter hinzufügen und mit Salz und Pfeffer abschmecken."
+    ]
+  },
+  {
+    "titel": "Gebratener Lachs mit Spinat",
+    "beschreibung": "Saftiges Lachsfilet auf einem Bett aus gedünstetem Spinat und Zitronenbutter.",
+    "zutaten": [
+      "2 Lachsfilets",
+      "200g frischer Spinat",
+      "1 Zitrone, in Scheiben geschnitten",
+      "2 EL Butter",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Lachsfilets mit Zitronensaft beträufeln und mit Salz und Pfeffer würzen.",
+      "In einer Pfanne mit Butter braten, bis sie durchgegart sind.",
+      "Spinat in der Pfanne dünsten, bis er zusammenfällt.",
+      "Servieren Sie den Lachs auf dem Spinatbett, garniert mit Zitronenscheiben."
+    ]
+  },
+  {
+    "titel": "Caprese-Salat",
+    "beschreibung": "Einfacher Caprese-Salat mit Tomaten, Mozzarella und frischem Basilikum.",
+    "zutaten": [
+      "4 Tomaten, in Scheiben geschnitten",
+      "200g Mozzarella, in Scheiben geschnitten",
+      "Frischer Basilikum",
+      "Olivenöl und Balsamico-Essig",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Tomatenscheiben abwechselnd mit Mozzarellascheiben und Basilikumblättern auf einem Teller anrichten.",
+      "Mit Olivenöl und Balsamico-Essig beträufeln, mit Salz und Pfeffer würzen."
+    ]
+  },
+  {
+    "titel": "Kartoffelsuppe",
+    "beschreibung": "Herzhafte Kartoffelsuppe mit Sahne und Speckwürfeln.",
+    "zutaten": [
+      "4 Kartoffeln, gewürfelt",
+      "1 Zwiebel, gewürfelt",
+      "200ml Sahne",
+      "100g Speckwürfel",
+      "Frische Petersilie",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Kartoffeln und Zwiebel in einem Topf kochen, bis sie weich sind.",
+      "Mit einem Pürierstab pürieren und Sahne hinzufügen.",
+      "In einer Pfanne Speckwürfel knusprig anbraten und über die Suppe streuen."
+    ]
+  },
+  {
+    "titel": "Gefüllte Paprika",
+    "beschreibung": "Gefüllte Paprikaschoten mit Hackfleisch und Reis in einer Tomatensauce.",
+    "zutaten": [
+      "4 große Paprikaschoten",
+      "250g Rinderhackfleisch",
+      "1 Tasse gekochter Reis",
+      "1 Zwiebel, gewürfelt",
+      "1 Knoblauchzehe, gehackt",
+      "400ml passierte Tomaten",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack"
+    ],
+    "anleitung": [
+      "Paprikaschoten aushöhlen und vorbereiten.",
+      "Hackfleisch, Reis, Zwiebel und Knoblauch vermengen, mit Gewürzen würzen.",
+      "Die Mischung in die Paprikaschoten füllen.",
+      "In einer Pfanne Tomatensauce erhitzen, gefüllte Paprikaschoten hinzufügen und köcheln lassen."
+    ]
+  },
+  {
+    "titel": "Gefüllte Auberginen",
+    "beschreibung": "Gefüllte Auberginenhälften mit einer herzhaften Mischung aus Hackfleisch und Gemüse, überbacken mit Käse.",
+    "zutaten": [
+      "2 große Auberginen",
+      "250g Rinderhackfleisch",
+      "1 Zwiebel, gewürfelt",
+      "2 Knoblauchzehen, gehackt",
+      "1 Paprika, gewürfelt",
+      "400ml passierte Tomaten",
+      "150g geriebener Käse",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Auberginen längs halbieren und aushöhlen.",
+      "Das Fruchtfleisch der Auberginen klein schneiden und beiseite legen.",
+      "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+      "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
+      "Das klein geschnittene Auberginenfruchtfleisch und Paprika hinzufügen, weiterbraten.",
+      "Mit Gewürzen würzen und passierte Tomaten hinzufügen, köcheln lassen.",
+      "Die Auberginenhälften in einer Auflaufform platzieren und mit der Hackfleischmischung füllen.",
+      "Mit geriebenem Käse bestreuen und im vorgeheizten Ofen bei 180°C ca. 20 Minuten überbacken, bis der Käse goldbraun ist."
+    ]
+  },
+  {
+    "titel": "Gefüllte Zucchini",
+    "beschreibung": "Gefüllte Zucchinihälften mit einer herzhaften Mischung aus Hackfleisch, Gemüse und Reis in einer Tomatensauce.",
+    "zutaten": [
+      "2 mittelgroße Zucchinis",
+      "250g Rinderhackfleisch",
+      "1 Tasse gekochter Reis",
+      "1 Zwiebel, gewürfelt",
+      "1 Knoblauchzehe, gehackt",
+      "400ml passierte Tomaten",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Zucchinis halbieren und aushöhlen.",
+      "Das Fruchtfleisch der Zucchinis klein schneiden und beiseite legen.",
+      "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+      "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
+      "Das klein geschnittene Zucchinifruchtfleisch hinzufügen und weiterbraten.",
+      "Mit Gewürzen würzen und passierte Tomaten hinzufügen, köcheln lassen.",
+      "Die Zucchinihälften in einer Auflaufform platzieren und mit der Hackfleischmischung füllen.",
+      "Im vorgeheizten Ofen bei 180°C ca. 25-30 Minuten backen, bis die Zucchinis weich sind."
+    ]
+  },
+  {
+    "titel": "Gefüllte Tomaten",
+    "beschreibung": "Saftige Tomaten, gefüllt mit einer Mischung aus Hackfleisch und Reis, serviert in einer herzhaften Tomatensauce.",
+    "zutaten": [
+      "4 große Tomaten",
+      "250g Rinderhackfleisch",
+      "1 Tasse gekochter Reis",
+      "1 Zwiebel, gewürfelt",
+      "1 Knoblauchzehe, gehackt",
+      "400ml passierte Tomaten",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack"
+    ],
+    "anleitung": [
+      "Tomaten aushöhlen und vorbereiten.",
+      "Hackfleisch, Reis, Zwiebel und Knoblauch vermengen, mit Gewürzen würzen.",
+      "Die Mischung in die Tomaten füllen.",
+      "In einer Pfanne Tomatensauce erhitzen, gefüllte Tomaten hinzufügen und köcheln lassen."
+    ]
+  },
+  {
+    "titel": "Gefüllte Kohlrabi",
+    "beschreibung": "Kohlrabi gefüllt mit einer herzhaften Mischung aus Hackfleisch, Gemüse und Reis in einer Tomatensauce.",
+    "zutaten": [
+      "4 mittelgroße Kohlrabi",
+      "250g Rinderhackfleisch",
+      "1 Tasse gekochter Reis",
+      "1 Zwiebel, gewürfelt",
+      "1 Knoblauchzehe, gehackt",
+      "400ml passierte Tomaten",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Kohlrabi schälen und aushöhlen, dabei das Fruchtfleisch beiseite legen.",
+      "In einem Topf Wasser zum Kochen bringen und die Kohlrabi 10 Minuten vorkochen.",
+      "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+      "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
+      "Das klein geschnittene Kohlrabifruchtfleisch hinzufügen und weiterbraten.",
+      "Mit Gewürzen würzen und passierte Tomaten hinzufügen, köcheln lassen.",
+      "Die vorgekochten Kohlrabi mit der Hackfleischmischung füllen.",
+      "Im vorgeheizten Ofen bei 180°C ca. 25-30 Minuten backen, bis die Kohlrabi weich sind."
+    ]
+  },
+  {
+    "titel": "Gefüllte Champignons",
+    "beschreibung": "Saftige Champignons gefüllt mit einer herzhaften Mischung aus Hackfleisch, Kräutern und Käse.",
+    "zutaten": [
+      "12 große Champignons",
+      "250g Rinderhackfleisch",
+      "1 Tasse frische Kräuter (z. B. Petersilie und Schnittlauch), fein gehackt",
+      "1 Zwiebel, gewürfelt",
+      "1 Knoblauchzehe, gehackt",
+      "100g geriebener Käse (z. B. Gouda oder Parmesan)",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Champignons putzen und Stiele entfernen. Stiele fein hacken.",
+      "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+      "Hackfleisch und gehackte Champignonstiele hinzufügen und anbraten, bis das Hackfleisch braun ist.",
+      "Mit Kräutern, Gewürzen und der Hälfte des geriebenen Käses vermengen.",
+      "Die Mischung in die Champignonköpfe füllen und mit dem restlichen Käse bestreuen.",
+      "Im vorgeheizten Ofen bei 180°C ca. 20-25 Minuten backen, bis die Champignons weich sind und der Käse goldbraun ist."
+    ]
+  },
+  {
+    "titel": "Gefüllte Auberginenröllchen",
+    "beschreibung": "Zarte Auberginenscheiben gefüllt mit einer herzhaften Mischung aus Hackfleisch und Reis, serviert in einer Tomatensauce.",
+    "zutaten": [
+      "2 große Auberginen",
+      "250g Rinderhackfleisch",
+      "1 Tasse gekochter Reis",
+      "1 Zwiebel, gewürfelt",
+      "1 Knoblauchzehe, gehackt",
+      "400ml passierte Tomaten",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Auberginen in dünne Scheiben schneiden und leicht salzen. 10 Minuten ruhen lassen, um Bitterstoffe zu entfernen.",
+      "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+      "Hackfleisch hinzufügen und anbraten, bis es braun ist.",
+      "Gekochten Reis hinzufügen, mit Gewürzen würzen und vermengen.",
+      "Jede Auberginenscheibe mit der Hackfleisch-Reis-Mischung füllen und aufrollen.",
+      "In einer Pfanne Tomatensauce erhitzen, gefüllte Auberginenröllchen hinzufügen und köcheln lassen."
+    ]
+  },
+  {
+    "titel": "Gefüllte Tomaten mit Quinoa und Gemüse",
+    "beschreibung": "Saftige Tomaten gefüllt mit einer herzhaften Mischung aus Quinoa und einer bunten Gemüsemischung, serviert in einer Tomatensauce.",
+    "zutaten": [
+      "4 große Tomaten",
+      "1 Tasse Quinoa, gekocht",
+      "1 Zucchini, gewürfelt",
+      "1 Paprika, gewürfelt",
+      "1 Zwiebel, gewürfelt",
+      "2 Knoblauchzehen, gehackt",
+      "400ml passierte Tomaten",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Tomaten aushöhlen und vorbereiten.",
+      "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+      "Zucchini und Paprika hinzufügen und anbraten, bis sie weich sind.",
+      "Quinoa und Gewürze hinzufügen, gut vermengen.",
+      "Die Mischung in die Tomaten füllen.",
+      "In einer Pfanne Tomatensauce erhitzen, gefüllte Tomaten hinzufügen und köcheln lassen."
+    ]
+  },
+  {
+    "titel": "Gefüllte Forelle in Zitronensauce",
+    "beschreibung": "Saftige Forellen gefüllt mit einer Mischung aus Krabben und Reis, serviert in einer köstlichen Zitronensauce.",
+    "zutaten": [
+      "4 ganze Forellen, ausgenommen und geschuppt",
+      "200g Krabben, gekocht und geschält",
+      "1 Tasse gekochter Reis",
+      "1 Zwiebel, gewürfelt",
+      "2 Knoblauchzehen, gehackt",
+      "Saft und Schale von 2 Zitronen",
+      "200ml Fischbrühe",
+      "Salz, Pfeffer und Paprikapulver nach Geschmack",
+      "Frische Petersilie zum Garnieren",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Forellen innen und außen salzen und pfeffern.",
+      "In einer Pfanne Olivenöl erhitzen, Zwiebeln und Knoblauch anbraten.",
+      "Krabben, Reis, Zitronensaft und -schale hinzufügen, mit Gewürzen würzen und vermengen.",
+      "Die Forellen mit der Mischung füllen.",
+      "Die gefüllten Forellen in eine Backform legen, Fischbrühe hinzufügen und im vorgeheizten Ofen bei 180°C ca. 25-30 Minuten backen, bis der Fisch durchgegart ist.",
+      "Mit frischer Petersilie garnieren und mit Zitronenscheiben servieren."
+    ]
+  },
+  {
+    "titel": "Gefüllte Lachsfilets mit Spinat und Kräutern in Zitronenbuttersoße",
+    "beschreibung": "Zarte Lachsfilets gefüllt mit einer Mischung aus Spinat, Kräutern und Parmesan, serviert in einer leckeren Zitronenbuttersoße.",
+    "zutaten": [
+      "4 Lachsfilets",
+      "200g frischer Spinat, gehackt",
+      "1/4 Tasse frische Kräuter (z. B. Petersilie und Dill), gehackt",
+      "1/4 Tasse geriebener Parmesan",
+      "Saft und Schale von 1 Zitrone",
+      "2 Knoblauchzehen, gehackt",
+      "4 EL Butter",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "anleitung": [
+      "Die Lachsfilets leicht salzen und pfeffern.",
+      "In einer Pfanne 2 EL Butter schmelzen, Knoblauch und Spinat hinzufügen, bis der Spinat welk wird.",
+      "Vom Herd nehmen und die gehackten Kräuter, Parmesan und die Zitronenschale unterrühren.",
+      "Die Spinatmischung gleichmäßig auf die Lachsfilets verteilen und die Filets aufrollen.",
+      "In derselben Pfanne die restliche Butter schmelzen, die Lachsrollen hinzufügen und von beiden Seiten goldbraun anbraten.",
+      "Den Zitronensaft über die Lachsrollen gießen und bei niedriger Hitze köcheln lassen, bis der Lachs durchgegart ist.",
+      "Mit der Zitronenbuttersoße servieren."
+    ]
+  },
+  {
+    "titel": "Gefüllte Forelle mit Kräuterbutter und Spinat",
+    "beschreibung": "Zarte Forellenfilets gefüllt mit einer Mischung aus Kräuterbutter und Spinat, serviert mit einer Zitronen-Buttersoße.",
+    "zutaten": [
+      "4 ganze Forellen, ausgenommen und geschuppt",
+      "100g frischer Spinat",
+      "100g Butter, weich",
+      "2 EL frische Kräuter (z. B. Petersilie und Dill), gehackt",
+      "Saft und Schale von 1 Zitrone",
+      "Salz und Pfeffer nach Geschmack",
+      "Olivenöl zum Braten"
+    ],
+    "anleitung": [
+      "Die Forellen innen und außen salzen und pfeffern.",
+      "Den Spinat leicht anbraten, bis er zusammenfällt, dann gut abtropfen lassen und abkühlen lassen.",
+      "In einer Schüssel die weiche Butter, gehackte Kräuter und Zitronenschale vermengen.",
+      "Die Forellen mit der Kräuterbutter füllen.",
+      "In einer Pfanne Olivenöl erhitzen, die Forellen von beiden Seiten goldbraun braten.",
+      "Den Zitronensaft über die Forellen gießen und bei niedriger Hitze köcheln lassen, bis der Fisch durchgegart ist.",
+      "Mit der Zitronen-Buttersoße servieren."
+    ]
+  }
+]
