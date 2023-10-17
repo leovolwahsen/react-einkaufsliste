@@ -1,0 +1,59 @@
+
+.einkaufsliste-container {
+  width: 100%;
+  height: 100%;
+  display: table;
+  color: white;
+  overflow-y: auto;
+  position: relative;
+}
+
+.einkauf-werte {
+    display: table-cell;
+    width: 50vw;
+    height: 100vh;
+    text-align: center;
+    vertical-align: middle;
+    background-color: gray;
+    color: rgb(27, 27, 27);
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.input {
+    margin-top: 1rem;
+    margin-right: 0.5rem;
+    width: 18rem;
+    border-radius: 5px;
+    height: 3.4rem;
+    font-size: larger;
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+.list-container {
+    width: 18vw;
+    margin: 0 auto;
+}
+
+.list {
+    margin-top: 1rem;
+    list-style: none;
+    cursor: not-allowed;
+    text-align: center;
+    font-size: larger;
+
+}
+
+.btnHinzufügen {
+    background-color: lightgreen;
+    width: fit-content;
+    padding: 0.95rem;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
